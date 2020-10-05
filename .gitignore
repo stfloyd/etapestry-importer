@@ -1,0 +1,8 @@
+**.idea/
+/output/*
+!/output
+/input/*
+!/input
+!/input/etapestry.config.example.json
+!/input/raisedonors.config.example.json
+!/input/reportgen.config.example.json

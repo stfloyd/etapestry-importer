@@ -1,0 +1,13 @@
+{
+    "smtp.enabled": false,
+    "smtp.host": "localhost",
+    "smtp.port": 587,
+    "smtp.username": "user",
+    "smtp.password": "pass",
+    "smtp.from": "user@org.com",
+    "smtp.subject": "RaiseDonors to eTapestry Migration Summary Reports",
+    "smtp.message": "Please check attachments for reports in CSV format.",
+    "smtp.recipients": [
+        "example@org.com"
+    ]
+}

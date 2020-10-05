@@ -1,0 +1,10 @@
+{
+    "sandbox": {
+        "databaseId": "ORG_1",
+        "apiKey": "keykeykey"
+    },
+    "production": {
+        "databaseId": "ORG",
+        "apiKey": "keykeykey"
+    }
+}
